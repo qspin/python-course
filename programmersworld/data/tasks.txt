@@ -1,0 +1,16 @@
+# Simple input file for our program.
+# Comment lines with "#" are ignored as well as empty lines.
+
+start_time: 2005-01-03T08:30
+name_of_problem_owner: Max
+name_of_programmer: Bill 
+age: 36 
+skill_level: 50
+
+tasks:
+# This list can be much longer.
+# task_name               work_load               
+hello_world                   10
+temperature_converter        100
+editor                     10000
+# No other information used beyond this point.

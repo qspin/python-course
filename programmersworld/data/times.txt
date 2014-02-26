@@ -1,0 +1,4 @@
+weekday   start    end  # comment, no meaning
+Monday      8.5   16.0  # sequence is important
+Tuesday     8.5   16.0
+Thursday   10.0   13.0
